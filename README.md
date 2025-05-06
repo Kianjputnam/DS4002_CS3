@@ -38,5 +38,3 @@ Windows
 - textblob_analysis.ipynb was performed and compiled to rookie_data_textblob.csv
 
 - Sentiment_Analysis_Correlations.ipynb was performed on rookie_data_textblob.csv and displays our findings. This also contains most of the figures shown in our presentation
-
-### Platform used
