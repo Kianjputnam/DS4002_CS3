@@ -15,19 +15,9 @@ Do the sentiment scores of the 2023 NBA rookie pre-draft scouting reports correl
 
 ## Software and Platform
 
-### Required Software:  
-- Python 3.x 
-- Jupyter Notebook (or any Python IDE)  
+We are using Jupter Notebooks for this program that run on Python 3 (prefferably 3.10+). Our code can also be run on **Google Colab** by importing our notebooks.
 
-### Required Packages:  
-
-Ensure you have the following Python libraries installed:  
-
-pip install pandas numpy seaborn matplotlib nltk wordcloud scipy statsmodels
-
-### Platform used
-
-Windows
+Files will need a Python base on a **Windows** environment with the following packages: `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`,`statsmodels`, `nltk`, `wordcloud`, `scipy`. These files can alternatively be run on **Google Colab** or **Rivanna**. 
 
 ## Reproducing Results
 
