@@ -1,6 +1,6 @@
 # DS4002_CS3
 
-# NBA Rookie Sentiment Analysis 
+## NBA Rookie Sentiment Analysis 
 
 ## Goals and Theories
 
