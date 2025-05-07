@@ -22,24 +22,10 @@ Files will need a Python base on a **Windows** environment with the following pa
 ## Documentation Map
 
 **Project_Overview folder:** contains information important to understand purpose and goal of project
-- Hook Document
-- Rubric
-- Project Presentation
-- Article
-- Blogpost
-- `CS3 **Hook** Document (1).pdf`
-- `CS3 **Rubric** NBA sentiment analysis.pdf`
-- `Project MI4 - **Presentation.pptx** (2) (2).pdf`
-- `Sentiment Analysis using VADER – Using Python _ GeeksforGeeks.pdf`
-- `Why Scouting Matters in the NBA`
-
-
-
-
-
-
-
-
+- Hook Document: `CS3 Hook Document (1).pdf`
+- Rubric: `CS3 Rubric NBA sentiment analysis.pdf`
+- Project Presentation: `Project MI4 - Presentation.pptx (2) (2).pdf`
+- Articles: `Sentiment Analysis using VADER – Using Python _ GeeksforGeeks.pdf`, `Why Scouting Matters in the NBA Draft_ Insights and Strategies - Toxigon.pdf`
 
 **Data folder:** contains all data
 - `Data_Appendix_File (1).pdf`
