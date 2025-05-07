@@ -29,13 +29,14 @@ Files will need a Python base on a **Windows** environment with the following pa
 
 **Data folder:** contains all data
 - `Data_Appendix_File (1).pdf`: descriptions of data files
-- `Reference_stats1.xlsx`: player data from NBA.com
-- `Reference_stats2.xlsx`: player data from NBAReference.com
 - `merged_nba_rookie_data.csv`: merged player data and scouting reports
 - `merged_nba_stats2 (2).csv`: merged player data
 - `rookie_data_textblob.csv`: Dataset after textblob analysis
 - `rookie_data_vader.csv`: Dataset after vader analysis
 - `scouting_reports.csv`: data of scouting reports
+- `stats1(Sheet1).csv`: player data from NBA.com
+- `stats2(Sheet1).csv`: player data from NBAReference.com
+- `Reference_stats1.xlsx`, `Reference_stats2.xlsx`: original files, converted into stats1 and stats2. These reference stats can be ignored
 
 **Scripts folder:** contains all source code and scripts
 
@@ -48,13 +49,13 @@ Files will need a Python base on a **Windows** environment with the following pa
 
 ## Reproducing Results
 
-- Our NBA stats data came from NBA.com and NBAReference.com. They are found in Reference_stats1.xls and Reference_stats2.xls which were merged using Compiling_stats_code(2) (1).ipynb to form merged_nba_stats2.csv (if reference stats are not working properly, you can just refer to merged_nba_stats2.csv). You may have to update the data path to where you have stored the data, or you may clone the github repository.
+- Our NBA stats data came from NBA.com and NBAReference.com. They are found in `stats1(Sheet1).csv` and `stats2(Sheet1).csv` which were merged using `Compiling_stats_code(2) (1).ipynb` to form `merged_nba_stats2.csv` (if stats files are not working properly, you can just refer to `merged_nba_stats2.csv`). You may have to update the data path to where you have stored the data, or you may clone the github repository.
 
-- scraper.py was used to get the scouting reports online and were turned into scouting_reports.csv, which was then compiled into merged_nba_rookie_data.csv
+- `scraper.py` was used to get the scouting reports online and were turned into `scouting_reports.csv`, which was then compiled into `merged_nba_rookie_data.csv`
 
-- textblob_analysis.ipynb was performed and compiled to rookie_data_textblob.csv
+- `textblob_analysis.ipynb` was performed and compiled to `rookie_data_textblob.csv`
 
-- Sentiment_Analysis_Correlations.ipynb was performed on rookie_data_textblob.csv and displays our findings. This also contains most of the figures shown in our presentation
+- `Sentiment_Analysis_Correlations.ipynb` was performed on `rookie_data_textblob.csv` and displays our findings. This also contains most of the figures shown in our presentation
 
 ## References
 
