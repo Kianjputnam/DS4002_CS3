@@ -19,6 +19,19 @@ We are using Jupter Notebooks for this program that run on Python 3 (prefferably
 
 Files will need a Python base on a **Windows** environment with the following packages: `Pandas`, `Numpy`, `Seaborn`, `Matplotlib`,`statsmodels`, `nltk`, `wordcloud`, `scipy`. These files can alternatively be run on **Google Colab** or **Rivanna**. 
 
+## Documentation Map
+
+**Project_Overview folder:** contains information important to understand purpose and goal of project
+- Hook Document
+- Rubric
+- Project Presentation
+- Article
+- Blogpost
+
+**Data folder:** contains all data
+- Data_Appendix_File (1).pdf
+- Reference_stats1.xlsx
+
 ## Reproducing Results
 
 - Our NBA stats data came from NBA.com and NBAReference.com. They are found in Reference_stats1.xls and Reference_stats2.xls which were merged using Compiling_stats_code.ipynb to form merged_nba_stats2.csv (if reference stats are not working properly due to excel reading error, you can just refer to merged_nba_stats2.csv). You may have to update the data path to where you have stored the data, or you may clone the github repository and include this code.
