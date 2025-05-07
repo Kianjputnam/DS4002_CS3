@@ -28,23 +28,23 @@ Files will need a Python base on a **Windows** environment with the following pa
 - Articles: `Sentiment Analysis using VADER – Using Python _ GeeksforGeeks.pdf`, `Why Scouting Matters in the NBA Draft_ Insights and Strategies - Toxigon.pdf`
 
 **Data folder:** contains all data
-- `Data_Appendix_File (1).pdf`
-- `Reference_stats1.xlsx`
-- `Reference_stats2.xlsx`
-- `merged_nba_rookie_data.csv`
-- `merged_nba_stats2 (2).csv`
-- `rookie_data_textblob.csv`
-- `rookie_data_vader.csv`
-- `scouting_reports.csv`
+- `Data_Appendix_File (1).pdf`: descriptions of data files
+- `Reference_stats1.xlsx`: player data from NBA.com
+- `Reference_stats2.xlsx`: player data from NBAReference.com
+- `merged_nba_rookie_data.csv`: merged player data and scouting reports
+- `merged_nba_stats2 (2).csv`: merged player data
+- `rookie_data_textblob.csv`: Dataset after textblob analysis
+- `rookie_data_vader.csv`: Dataset after vader analysis
+- `scouting_reports.csv`: data of scouting reports
 
 **Scripts folder:** contains all source code and scripts
 
-- `Compiling_stats_code.ipynb`
-- `Sentiment_Analysis_Correlations (1).ipynb`
-- `eda.py`
-- `merge.py`
-- `scraper.py`
-- `textblob_analysis.ipynb`
+- `Compiling_stats_code.ipynb`: merges NBA and NBAReference data
+- `Sentiment_Analysis_Correlations (1).ipynb`: displays analysis findings
+- `eda.py`: used to make eda and graphs
+- `merge.py`: merges scouting reports and player data
+- `scraper.py`: used to get scouting reports from online
+- `textblob_analysis.ipynb`: textblob analysis work
 
 ## Reproducing Results
 
