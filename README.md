@@ -39,7 +39,7 @@ Files will need a Python base on a **Windows** environment with the following pa
 
 **Scripts folder:** contains all source code and scripts
 
-- `Compiling_stats_code.ipynb`: merges NBA and NBAReference data
+- `Compiling_stats_code(2) (1).ipynb`: merges NBA and NBAReference data
 - `Sentiment_Analysis_Correlations (1).ipynb`: displays analysis findings
 - `eda.py`: used to make eda and graphs
 - `merge.py`: merges scouting reports and player data
@@ -48,7 +48,7 @@ Files will need a Python base on a **Windows** environment with the following pa
 
 ## Reproducing Results
 
-- Our NBA stats data came from NBA.com and NBAReference.com. They are found in Reference_stats1.xls and Reference_stats2.xls which were merged using Compiling_stats_code.ipynb to form merged_nba_stats2.csv (if reference stats are not working properly due to excel reading error, you can just refer to merged_nba_stats2.csv). You may have to update the data path to where you have stored the data, or you may clone the github repository and include this code.
+- Our NBA stats data came from NBA.com and NBAReference.com. They are found in Reference_stats1.xls and Reference_stats2.xls which were merged using Compiling_stats_code(2) (1).ipynb to form merged_nba_stats2.csv (if reference stats are not working properly, you can just refer to merged_nba_stats2.csv). You may have to update the data path to where you have stored the data, or you may clone the github repository.
 
 - scraper.py was used to get the scouting reports online and were turned into scouting_reports.csv, which was then compiled into merged_nba_rookie_data.csv
 
