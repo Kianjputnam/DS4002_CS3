@@ -29,8 +29,16 @@ Files will need a Python base on a **Windows** environment with the following pa
 - Blogpost
 
 **Data folder:** contains all data
-- Data_Appendix_File (1).pdf
-- Reference_stats1.xlsx
+- `Data_Appendix_File (1).pdf`
+- `Reference_stats1.xlsx`
+- `Reference_stats2.xlsx`
+- `merged_nba_rookie_data.csv`
+- `merged_nba_stats2 (2).csv`
+- `rookie_data_textblob.csv`
+- `rookie_data_vader.csv`
+- `scouting_reports.csv`
+
+
 
 ## Reproducing Results
 
