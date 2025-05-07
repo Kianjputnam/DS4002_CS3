@@ -27,6 +27,19 @@ Files will need a Python base on a **Windows** environment with the following pa
 - Project Presentation
 - Article
 - Blogpost
+- `CS3 **Hook** Document (1).pdf`
+- `CS3 **Rubric** NBA sentiment analysis.pdf`
+- `Project MI4 - **Presentation.pptx** (2) (2).pdf`
+- `Sentiment Analysis using VADER – Using Python _ GeeksforGeeks.pdf`
+- `Why Scouting Matters in the NBA`
+
+
+
+
+
+
+
+
 
 **Data folder:** contains all data
 - `Data_Appendix_File (1).pdf`
