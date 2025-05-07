@@ -38,7 +38,14 @@ Files will need a Python base on a **Windows** environment with the following pa
 - `rookie_data_vader.csv`
 - `scouting_reports.csv`
 
+**Scripts folder:** contains all source code and scripts
 
+- `Compiling_stats_code.ipynb`
+- `Sentiment_Analysis_Correlations (1).ipynb`
+- `eda.py`
+- `merge.py`
+- `scraper.py`
+- `textblob_analysis.ipynb`
 
 ## Reproducing Results
 
