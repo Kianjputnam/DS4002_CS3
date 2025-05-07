@@ -2,10 +2,10 @@
 
 ## NBA Rookie Sentiment Analysis 
 
-## Goals and Theories
+## Goals and Theories of Original Project
 
 Motivation and Context: 
-Statistics like PER, Win Shares, and Plus-Minus are widely used to measure a player’s performance on the court, but scouting reports offer qualitative evaluations that capture traits/intangibles/potential like basketball IQ, work ethic, clutch, coachability,  and instincts—attributes that don’t always show up in box scores. Despite their importance in draft decisions, little research has tested whether the sentiment in pre-draft scouting reports can actually predict rookie performance in the NBA.
+Statistics like PER, Win Shares, and Plus-Minus are widely used to measure a player’s performance on the court, but scouting reports offer qualitative evaluations that capture traits/intangibles/potential like basketball IQ, work ethic, clutch, coachability,  and instincts, attributes that don’t always show up in box scores. Despite their importance in draft decisions, little research has tested whether the sentiment in pre-draft scouting reports can actually predict rookie performance in the NBA.
 
 Hypothesis
 Pre-draft scouting report sentiment correlates with rookie performance.
